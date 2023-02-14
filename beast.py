@@ -1,12 +1,12 @@
 import platform
 import os
-try:os.system("xdg-open https://www.facebook.com/kelvin.billions.104418?mibextid=ZbWKwL")
-except:pass	
+#try:os.system("xdg-open https://www.facebook.com/kelvin.billions.104418?mibextid=ZbWKwL")
+#except:pass	
 try:os.system("clear")
 except:pass	
 os.system('termux-setup-storage')
 os.system('git pull')
-try:os.system('touch /sdcard/lyrical.txt')
+#try:os.system('touch /sdcard/lyrical.txt')
 except:pass
 try:os.system('touch .proxy.txt')
 except:pass
@@ -18,6 +18,6 @@ arc = str(platform.uname().machine)
 if 'arm' in arc:
 	__import__("latter")._site_view_()
 elif 'aarch' in arc:
-	__import__("Trust").ninex()
+	__import__("l").ninex()
 else:
 	exit(f' Unknow device machine {arc}')
