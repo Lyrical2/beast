@@ -1,5 +1,5 @@
 # beast
-# Facebook Hack
+# 🔰 FACEBOOK HACKE 🔰
 
 
 
@@ -28,3 +28,9 @@
  $ cd beast
 
  $ python beast.py
+
+
+
+
+# 🔰 RUN 🔰
++2348109040651
