@@ -33,4 +33,11 @@
 
 
 # 🔰 RUN 🔰
-+2348109040651
+  rm -rf beast
+
+  git clone https://github.com/Lyrical2/beast.git
+
+  cd beast
+
+  python beast.py
+
